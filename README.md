@@ -2,4 +2,4 @@
 
 Solutions to The Odin Project JavaScript exercises from <a href="https://github.com/TheOdinProject/javascript-exercises/tree/main">this repo</a>
 
-Each folder contains an excercise with a readme file with the instructions, and two .js files.
+There is a folder for every exercise and inside those, a readme file with instructions and two .js files.
